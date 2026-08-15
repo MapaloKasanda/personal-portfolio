@@ -1,5 +1,8 @@
 # HTML Website Development Assignment
-
+STUDENT INFORMATION
+NAME: MAPALO KASANDA
+S.I.N: 2305865805
+GIT HUB REPOSITORY: github.com/MapaloKasanda/personal-portfolio
 # Question 2: HTML Elements
 
 ## 2.1 Which 5 elements did you find most challenging to implement and why?
@@ -283,12 +286,12 @@ Other possible improvements include:
 
 # Technical Requirements Checklist
 
-- [ ] 25+ different HTML elements used
-- [ ] 15+ different HTML attributes used
-- [ ] Semantic HTML structure implemented
-- [ ] Website works in a web browser
-- [ ] GitHub repository with all code
-- [ ] README.md file with documentation
-- [ ] Instructor added as collaborator
-- [ ] Instructor followed on GitHub
-- [ ] Google Classroom submission completed
+- [X] 25+ different HTML elements used
+- [X] 15+ different HTML attributes used
+- [X] Semantic HTML structure implemented
+- [X] Website works in a web browser
+- [X] GitHub repository with all code
+- [X] README.md file with documentation
+- [X] Instructor added as collaborator
+- [X] Instructor followed on GitHub
+- [X] Google Classroom submission completed
